@@ -58,8 +58,7 @@ We would like to thank the following contributors for their valuable contributio
 - Alexander 
 - Delanie
 - Rucha
-- Aalap 
-- Ayush
+
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
@@ -82,8 +81,5 @@ Before contributing, please review the [contribution guidelines](CONTRIBUTING.md
 
 Montra is released under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-Montra was created by Alex, Varun, Bhavana, Likhita as a Coding Club project and is provided as an open-source application for others to use and learn from. The project utilizes the Flutter framework and various other open-source libraries and tools, to which the author expresses gratitude.
 
 Special thanks to the Flutter and Dart communities for their valuable contributions and support.
